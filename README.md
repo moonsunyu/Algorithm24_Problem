@@ -1,1 +1,1 @@
-# Solutions of problems romf Algorithm Lecture 24.
+# Solutions of problems of Algorithm Lecture 24.
